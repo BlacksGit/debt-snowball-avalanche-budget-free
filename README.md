@@ -38,6 +38,6 @@ $500, then $1,000, then 1 month of expenses, then 3 months.
 
 ## Want the printable planner?
 
-The **Monthly Budget and Debt Payoff Planner** has the monthly budget, bill calendar, debt list, payoff tracker, savings goals and 12-month overview: https://spectre5.gumroad.com/l/PLACEHOLDER ($6)
+The **Monthly Budget and Debt Payoff Planner** has the monthly budget, bill calendar, debt list, payoff tracker, savings goals and 12-month overview: https://spectre5.gumroad.com/l/ygesv ($6)
 
 More guides: https://patreon.com/123black
