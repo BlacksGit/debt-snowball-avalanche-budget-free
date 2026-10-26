@@ -44,4 +44,4 @@ More guides: https://patreon.com/123black
 
 ## Free calculator
 
-[50/30/20 budget check](https://blacksgit.github.io/budget-503020/): runs in your browser, nothing to install.
+[Debt snowball vs avalanche calculator](https://blacksgit.github.io/debt-payoff/): your debt-free date both ways. Also the [50/30/20 budget check](https://blacksgit.github.io/budget-503020/). Both run in your browser.
